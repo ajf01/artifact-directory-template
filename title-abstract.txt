@@ -2,4 +2,7 @@ Title:
 Plates4U
 
 Abstract:
-Existing options for recipe recommendations are less than satisfactory. We sought to solve this problem by creating our own recommendation system hosted on a website. We used Food.com recipe data to create a classifier to identify cuisines of recipes, a popularity based recommender, and a content-based filtering recommender using cosine similarity. In the future, we would like to improve upon this recommender by exploring alternative ways to model ingredients, try to start tracking implicit/explicit data of a user, and try to create a hybrid recommender using collaborative techniques.
+Existing options for recipe recommendations are less than satisfactory. We sought to solve this problem by creating our own recommendation system hosted on a website. We used
+Food.com recipe data to create a classifier to identify cuisines of recipes, a popularity based recommender, and a content-based filtering recommender using cosine similarity. In
+the future, we would like to improve upon this recommender by exploring alternative ways to model ingredients, try to start tracking implicit/explicit data of a user, and try to
+create a hybrid recommender using collaborative techniques.
